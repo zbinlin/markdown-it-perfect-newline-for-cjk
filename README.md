@@ -1,8 +1,8 @@
 # markdown-it-perfect-newline-for-cjk
 
-[![Build Status](https://img.shields.io/travis/zbinlin/markdown-it-perfect-newline-for-cjk/master.svg?style=flat)](https://travis-ci.org/zbinlin/markdown-it-perfect-newline-for-cjk)
-[![NPM version](https://img.shields.io/npm/v/markdown-it-perfect-newline-for-cjk.svg?style=flat)](https://www.npmjs.org/package/markdown-it-perfect-newline-for-cjk)
-[![Coverage Status](https://img.shields.io/coveralls/zbinlin/markdown-it-perfect-newline-for-cjk/master.svg?style=flat)](https://coveralls.io/r/zbinlin/markdown-it-perfect-newline-for-cjk?branch=master)
+[![Build Status](https://img.shields.io/travis/zbinlin/markdown-it-perfect-newline-for-cjk/master.svg?style=flat-square)](https://travis-ci.org/zbinlin/markdown-it-perfect-newline-for-cjk)
+[![NPM version](https://img.shields.io/npm/v/markdown-it-perfect-newline-for-cjk.svg?style=flat-square)](https://www.npmjs.org/package/markdown-it-perfect-newline-for-cjk)
+[![Coverage Status](https://img.shields.io/coveralls/zbinlin/markdown-it-perfect-newline-for-cjk/master.svg?style=flat-square)](https://coveralls.io/r/zbinlin/markdown-it-perfect-newline-for-cjk?branch=master)
 
 > Remove line ending (LF) between CJK characters
 

@@ -22,6 +22,7 @@
   "homepage": "https://github.com/zbinlin/markdown-it-perfect-newline-for-cjk#readme",
   "devDependencies": {
     "chai": "^3.4.1",
+    "coveralls": "^2.11.6",
     "eslint": "^1.10.3",
     "istanbul": "^0.4.1",
     "markdown-it": "^5.0.3",
