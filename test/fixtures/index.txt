@@ -1,0 +1,130 @@
+.
+This is a
+newline!
+.
+<p>This is a
+newline!</p>
+.
+
+.
+这不是一个
+换行！
+.
+<p>这不是一个换行！</p>
+.
+
+.
+`This is a
+newline!`
+.
+<p><code>This is a newline!</code></p>
+.
+
+# failure
+#.
+#`这不是一个
+#换行！`
+#.
+#<p><code>这不是一个换行！</code></p>
+#.
+
+.
+```
+This is a
+newline!
+```
+.
+<pre><code>This is a
+newline!
+</code></pre>
+.
+
+.
+```
+这是一个
+换行！
+```
+.
+<pre><code>这是一个
+换行！
+</code></pre>
+.
+
+.
+* This is a
+ newline!
+.
+<ul>
+<li>This is a
+newline!</li>
+</ul>
+.
+
+.
+* 这不是一个
+ 换行！
+.
+<ul>
+<li>这不是一个换行！</li>
+</ul>
+.
+
+.
+> This is a
+> newline!
+.
+<blockquote>
+<p>This is a
+newline!</p>
+</blockquote>
+.
+
+.
+> 这不是一个
+> 换行！
+.
+<blockquote>
+<p>这不是一个换行！</p>
+</blockquote>
+.
+
+.
+这是一个 
+换行！
+.
+<p>这是一个
+换行！</p>
+.
+
+.
+这是一个  
+换行！
+.
+<p>这是一个<br>
+换行！</p>
+.
+
+.
+这是一个
+ 换行！
+.
+<p>这是一个
+换行！</p>
+.
+
+.
+𫇯
+𢊤
+𫞖
+𬸣
+暑
+.
+<p>𫇯𢊤𫞖𬸣暑</p>
+.
+
+.
+这是一个\
+换行！
+.
+<p>这是一个<br>
+换行！</p>

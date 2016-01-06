@@ -1,0 +1,31 @@
+{
+  "name": "markdown-it-perfect-newline-for-cjk",
+  "version": "1.0.0",
+  "description": "Remove line ending (LF) between CJK characters",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbinlin/markdown-it-perfect-newline-for-cjk.git"
+  },
+  "keywords": [
+    "markdown-it",
+    "markdown-it-plugin"
+  ],
+  "author": "zbinlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zbinlin/markdown-it-perfect-newline-for-cjk/issues"
+  },
+  "homepage": "https://github.com/zbinlin/markdown-it-perfect-newline-for-cjk#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "eslint": "^1.10.3",
+    "istanbul": "^0.4.1",
+    "markdown-it": "^5.0.3",
+    "markdown-it-testgen": "^0.1.4",
+    "mocha": "^2.3.4"
+  }
+}
